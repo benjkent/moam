@@ -1,0 +1,24 @@
+{
+    "questions":[
+        {"question":"I am well known outside of my local church?", "category":"PI"},
+        {"question":"I am known as a man of my word?", "category":"PI"},
+        {"question":"I have lived in the same place for a good portion of my life?","category":"PI"},
+        {"question":"I have built very strict moral guardrails to ensure that I remain faithful?","category":"FA"},
+        {"question":"I have strategically built accountability safeguards into all my electronic devices?","category":"FA"},
+        {"question":"I have never been divorced since following Jesus?","category":"FA"},
+        {"question":"My neighbors know they can borrow my stuff at any time?","category":"PGP"},
+        {"question":"I am constantly giving my stuff to people in need?","category":"PGP"},
+        {"question":"I am only a steward of God’s stuff and should hold all my possession with an open hand?","category":"PGP"},
+        {"question":"People regularly come to my house to visit, hang out, or share a meal?","category":"PGP"},
+        {"question":"When I hear of people in need of something that I have, I am the first to offer it?","category":"PGP"},
+        {"question":"I am always looking for an opportunity to express the love of Jesus to others?","category":"LC"},
+        {"question":"The leaders of my church know me by name?","category":"LC"},
+        {"question":"I believe that a person should find a local church and stay there?","category":"LC"},
+        {"question":"My wife willingly and joyfully submits to my leadership?","category":"FS"},
+        {"question":"My life is well-ordered and disciplined without a lot of unfinished projects?","category":"FS"},
+        {"question":"I am always either early or on time for meetings?","category":"FS"},
+        {"question":"I believe my last impression is my lasting impression and live in such a way?","category":"FS"},
+        {"question":"People put me in responsible positions and never feel the need to micromanage?","category":"FS"},
+        {"question":"I never tell crude jokes or use coarse language?","category":"FS"}
+    ]
+}
